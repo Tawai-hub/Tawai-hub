@@ -13,10 +13,6 @@ I've been learning to code for about 2 years. I started with HTML, but have some
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Data analytics projects
 
-<a href="https://www.twitter.com/Eric_Tawai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Eric_Tawai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
@@ -37,6 +33,8 @@ src="https://img.shields.io/twitter/follow/Eric_Tawai?logo=twitter&style=for-the
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Tawai-hub"><img src="https://github-readme-stats.vercel.app/api?username=Tawai-hub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tawai-hub's GitHub stats" /></a>
 
 <a href="http://www.github.com/Tawai-hub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawai-hub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
